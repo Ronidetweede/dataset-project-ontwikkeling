@@ -1,0 +1,382 @@
+[
+  {
+    "id": "CH-001",
+    "name": "Garen",
+    "description": "A steadfast Demacian warrior who embodies duty and honor, charging into battle with unwavering resolve.",
+    "difficulty": 2,
+    "isAvailable": true,
+    "releaseDate": "2010-04-27",
+    "imageUrl": "https://example.com/images/champions/garen.jpg",
+    "role": "Fighter",
+    "tags": ["tank", "frontline", "spin-to-win"],
+    "regionId": "REG-001",
+    "region": {
+      "id": "REG-001",
+      "name": "Demacia",
+      "regionEmblemUrl": "https://example.com/images/regions/demacia-emblem.jpg",
+      "foundedYear": 552,
+      "motto": "For Justice and Duty"
+    }
+  },
+  {
+    "id": "CH-002",
+    "name": "Lux",
+    "description": "A bright-minded mage hiding dangerous power, using light magic to protect allies and outwit foes.",
+    "difficulty": 3,
+    "isAvailable": true,
+    "releaseDate": "2010-10-19",
+    "imageUrl": "https://example.com/images/champions/lux.jpg",
+    "role": "Mage",
+    "tags": ["burst", "poke", "shield"],
+    "regionId": "REG-001",
+    "region": {
+      "id": "REG-001",
+      "name": "Demacia",
+      "regionEmblemUrl": "https://example.com/images/regions/demacia-emblem.jpg",
+      "foundedYear": 552,
+      "motto": "For Justice and Duty"
+    }
+  },
+  {
+    "id": "CH-003",
+    "name": "Darius",
+    "description": "A feared Noxian commander who thrives in close combat, crushing opposition with ruthless strength.",
+    "difficulty": 2,
+    "isAvailable": true,
+    "releaseDate": "2012-05-23",
+    "imageUrl": "https://example.com/images/champions/darius.jpg",
+    "role": "Fighter",
+    "tags": ["juggernaut", "execute", "snowball"],
+    "regionId": "REG-002",
+    "region": {
+      "id": "REG-002",
+      "name": "Noxus",
+      "regionEmblemUrl": "https://example.com/images/regions/noxus-emblem.jpg",
+      "foundedYear": 213,
+      "motto": "Strength Above All"
+    }
+  },
+  {
+    "id": "CH-004",
+    "name": "Swain",
+    "description": "A visionary tactician who bends demonic power and political influence to control the battlefield.",
+    "difficulty": 3,
+    "isAvailable": true,
+    "releaseDate": "2010-10-05",
+    "imageUrl": "https://example.com/images/champions/swain.jpg",
+    "role": "Mage",
+    "tags": ["drain", "control", "frontline-mage"],
+    "regionId": "REG-002",
+    "region": {
+      "id": "REG-002",
+      "name": "Noxus",
+      "regionEmblemUrl": "https://example.com/images/regions/noxus-emblem.jpg",
+      "foundedYear": 213,
+      "motto": "Strength Above All"
+    }
+  },
+  {
+    "id": "CH-005",
+    "name": "Ahri",
+    "description": "A charming vastaya who weaves magic and mobility, hunting targets with bursts of spirit power.",
+    "difficulty": 3,
+    "isAvailable": true,
+    "releaseDate": "2011-12-14",
+    "imageUrl": "https://example.com/images/champions/ahri.jpg",
+    "role": "Mage",
+    "tags": ["mobility", "pick", "charm"],
+    "regionId": "REG-003",
+    "region": {
+      "id": "REG-003",
+      "name": "Ionia",
+      "regionEmblemUrl": "https://example.com/images/regions/ionia-emblem.jpg",
+      "foundedYear": 0,
+      "motto": "Harmony Through Balance"
+    }
+  },
+  {
+    "id": "CH-006",
+    "name": "Yasuo",
+    "description": "A wandering swordsman driven by a troubled past, cutting through enemies with wind and precision.",
+    "difficulty": 4,
+    "isAvailable": true,
+    "releaseDate": "2013-12-13",
+    "imageUrl": "https://example.com/images/champions/yasuo.jpg",
+    "role": "Assassin",
+    "tags": ["dash", "crit", "outplay"],
+    "regionId": "REG-003",
+    "region": {
+      "id": "REG-003",
+      "name": "Ionia",
+      "regionEmblemUrl": "https://example.com/images/regions/ionia-emblem.jpg",
+      "foundedYear": 0,
+      "motto": "Harmony Through Balance"
+    }
+  },
+  {
+    "id": "CH-007",
+    "name": "Ezreal",
+    "description": "A daring explorer with a powerful gauntlet, firing long-range shots and weaving around danger.",
+    "difficulty": 2,
+    "isAvailable": true,
+    "releaseDate": "2010-03-16",
+    "imageUrl": "https://example.com/images/champions/ezreal.jpg",
+    "role": "Marksman",
+    "tags": ["poke", "skillshots", "mobility"],
+    "regionId": "REG-004",
+    "region": {
+      "id": "REG-004",
+      "name": "Piltover",
+      "regionEmblemUrl": "https://example.com/images/regions/piltover-emblem.jpg",
+      "foundedYear": 772,
+      "motto": "Progress, Innovation, Prosperity"
+    }
+  },
+  {
+    "id": "CH-008",
+    "name": "Caitlyn",
+    "description": "Piltover’s finest sharpshooter, controlling space with traps and long-range precision fire.",
+    "difficulty": 2,
+    "isAvailable": true,
+    "releaseDate": "2011-01-04",
+    "imageUrl": "https://example.com/images/champions/caitlyn.jpg",
+    "role": "Marksman",
+    "tags": ["range", "siege", "traps"],
+    "regionId": "REG-004",
+    "region": {
+      "id": "REG-004",
+      "name": "Piltover",
+      "regionEmblemUrl": "https://example.com/images/regions/piltover-emblem.jpg",
+      "foundedYear": 772,
+      "motto": "Progress, Innovation, Prosperity"
+    }
+  },
+  {
+    "id": "CH-009",
+    "name": "Jinx",
+    "description": "A chaotic Zaunite menace who turns fights into fireworks, ramping up when takedowns start.",
+    "difficulty": 2,
+    "isAvailable": true,
+    "releaseDate": "2013-10-10",
+    "imageUrl": "https://example.com/images/champions/jinx.jpg",
+    "role": "Marksman",
+    "tags": ["hypercarry", "aoe", "reset"],
+    "regionId": "REG-005",
+    "region": {
+      "id": "REG-005",
+      "name": "Zaun",
+      "regionEmblemUrl": "https://example.com/images/regions/zaun-emblem.jpg",
+      "foundedYear": 772,
+      "motto": "Survive. Adapt. Evolve."
+    }
+  },
+  {
+    "id": "CH-010",
+    "name": "Ekko",
+    "description": "A genius from Zaun who rewinds key moments, diving in and escaping by bending time.",
+    "difficulty": 4,
+    "isAvailable": true,
+    "releaseDate": "2015-05-29",
+    "imageUrl": "https://example.com/images/champions/ekko.jpg",
+    "role": "Assassin",
+    "tags": ["time", "dive", "burst"],
+    "regionId": "REG-005",
+    "region": {
+      "id": "REG-005",
+      "name": "Zaun",
+      "regionEmblemUrl": "https://example.com/images/regions/zaun-emblem.jpg",
+      "foundedYear": 772,
+      "motto": "Survive. Adapt. Evolve."
+    }
+  },
+  {
+    "id": "CH-011",
+    "name": "Ashe",
+    "description": "A frostborn archer leading her people, initiating fights with global utility and steady ranged damage.",
+    "difficulty": 2,
+    "isAvailable": true,
+    "releaseDate": "2009-02-21",
+    "imageUrl": "https://example.com/images/champions/ashe.jpg",
+    "role": "Marksman",
+    "tags": ["utility", "slow", "engage"],
+    "regionId": "REG-006",
+    "region": {
+      "id": "REG-006",
+      "name": "Freljord",
+      "regionEmblemUrl": "https://example.com/images/regions/freljord-emblem.jpg",
+      "foundedYear": 0,
+      "motto": "Endure the Endless Winter"
+    }
+  },
+  {
+    "id": "CH-012",
+    "name": "Braum",
+    "description": "A heroic shieldbearer who protects allies with unwavering kindness and a door-sized barrier.",
+    "difficulty": 2,
+    "isAvailable": true,
+    "releaseDate": "2014-05-12",
+    "imageUrl": "https://example.com/images/champions/braum.jpg",
+    "role": "Support",
+    "tags": ["peel", "tank", "protect"],
+    "regionId": "REG-006",
+    "region": {
+      "id": "REG-006",
+      "name": "Freljord",
+      "regionEmblemUrl": "https://example.com/images/regions/freljord-emblem.jpg",
+      "foundedYear": 0,
+      "motto": "Endure the Endless Winter"
+    }
+  },
+  {
+    "id": "CH-013",
+    "name": "Miss Fortune",
+    "description": "A bounty hunter from Bilgewater who dominates fights with relentless gunfire and sweeping barrages.",
+    "difficulty": 1,
+    "isAvailable": true,
+    "releaseDate": "2010-09-08",
+    "imageUrl": "https://example.com/images/champions/miss-fortune.jpg",
+    "role": "Marksman",
+    "tags": ["aoe", "lane-bully", "teamfight"],
+    "regionId": "REG-007",
+    "region": {
+      "id": "REG-007",
+      "name": "Bilgewater",
+      "regionEmblemUrl": "https://example.com/images/regions/bilgewater-emblem.jpg",
+      "foundedYear": 564,
+      "motto": "Fortune Favors the Ruthless"
+    }
+  },
+  {
+    "id": "CH-014",
+    "name": "Gangplank",
+    "description": "A ruthless reaver captain wielding powder kegs and cannon fire, turning skirmishes into explosive traps.",
+    "difficulty": 4,
+    "isAvailable": true,
+    "releaseDate": "2009-08-19",
+    "imageUrl": "https://example.com/images/champions/gangplank.jpg",
+    "role": "Fighter",
+    "tags": ["barrels", "global-ult", "scaling"],
+    "regionId": "REG-007",
+    "region": {
+      "id": "REG-007",
+      "name": "Bilgewater",
+      "regionEmblemUrl": "https://example.com/images/regions/bilgewater-emblem.jpg",
+      "foundedYear": 564,
+      "motto": "Fortune Favors the Ruthless"
+    }
+  },
+  {
+    "id": "CH-015",
+    "name": "Thresh",
+    "description": "A sadistic warden of the Shadow Isles who controls souls and space, enabling picks and rescues.",
+    "difficulty": 4,
+    "isAvailable": true,
+    "releaseDate": "2013-01-23",
+    "imageUrl": "https://example.com/images/champions/thresh.jpg",
+    "role": "Support",
+    "tags": ["hook", "engage", "peel"],
+    "regionId": "REG-008",
+    "region": {
+      "id": "REG-008",
+      "name": "Shadow Isles",
+      "regionEmblemUrl": "https://example.com/images/regions/shadow-isles-emblem.jpg",
+      "foundedYear": 0,
+      "motto": "All Return to the Mist"
+    }
+  },
+  {
+    "id": "CH-016",
+    "name": "Hecarim",
+    "description": "A spectral rider who tramples battle lines, accelerating into fights and spreading fear through charges.",
+    "difficulty": 3,
+    "isAvailable": true,
+    "releaseDate": "2012-04-18",
+    "imageUrl": "https://example.com/images/champions/hecarim.jpg",
+    "role": "Fighter",
+    "tags": ["speed", "dive", "teamfight"],
+    "regionId": "REG-008",
+    "region": {
+      "id": "REG-008",
+      "name": "Shadow Isles",
+      "regionEmblemUrl": "https://example.com/images/regions/shadow-isles-emblem.jpg",
+      "foundedYear": 0,
+      "motto": "All Return to the Mist"
+    }
+  },
+  {
+    "id": "CH-017",
+    "name": "Azir",
+    "description": "An emperor reborn who commands soldiers from afar, reshaping fights with strategic zone control.",
+    "difficulty": 5,
+    "isAvailable": true,
+    "releaseDate": "2014-09-16",
+    "imageUrl": "https://example.com/images/champions/azir.jpg",
+    "role": "Mage",
+    "tags": ["control", "dps-mage", "shuffle"],
+    "regionId": "REG-009",
+    "region": {
+      "id": "REG-009",
+      "name": "Shurima",
+      "regionEmblemUrl": "https://example.com/images/regions/shurima-emblem.jpg",
+      "foundedYear": -3000,
+      "motto": "Rise with the Sun"
+    }
+  },
+  {
+    "id": "CH-018",
+    "name": "Nasus",
+    "description": "An ancient ascended guardian who scales into an unstoppable force through patience and relentless stacking.",
+    "difficulty": 2,
+    "isAvailable": true,
+    "releaseDate": "2009-10-01",
+    "imageUrl": "https://example.com/images/champions/nasus.jpg",
+    "role": "Fighter",
+    "tags": ["scaling", "splitpush", "tankiness"],
+    "regionId": "REG-009",
+    "region": {
+      "id": "REG-009",
+      "name": "Shurima",
+      "regionEmblemUrl": "https://example.com/images/regions/shurima-emblem.jpg",
+      "foundedYear": -3000,
+      "motto": "Rise with the Sun"
+    }
+  },
+  {
+    "id": "CH-019",
+    "name": "Leona",
+    "description": "A radiant protector empowered by the sun, locking targets down with layered stuns and steadfast engages.",
+    "difficulty": 2,
+    "isAvailable": true,
+    "releaseDate": "2011-07-13",
+    "imageUrl": "https://example.com/images/champions/leona.jpg",
+    "role": "Tank",
+    "tags": ["engage", "cc-chain", "frontline"],
+    "regionId": "REG-010",
+    "region": {
+      "id": "REG-010",
+      "name": "Targon",
+      "regionEmblemUrl": "https://example.com/images/regions/targon-emblem.jpg",
+      "foundedYear": 0,
+      "motto": "Climb, Transcend, Become"
+    }
+  },
+  {
+    "id": "CH-020",
+    "name": "Diana",
+    "description": "A lunar warrior channeling celestial power, diving into clustered enemies and detonating teamfights.",
+    "difficulty": 3,
+    "isAvailable": true,
+    "releaseDate": "2012-08-07",
+    "imageUrl": "https://example.com/images/champions/diana.jpg",
+    "role": "Assassin",
+    "tags": ["dive", "aoe", "burst"],
+    "regionId": "REG-010",
+    "region": {
+      "id": "REG-010",
+      "name": "Targon",
+      "regionEmblemUrl": "https://example.com/images/regions/targon-emblem.jpg",
+      "foundedYear": 0,
+      "motto": "Climb, Transcend, Become"
+    }
+  }
+]   
