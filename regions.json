@@ -3,7 +3,7 @@
     "id": "REG-001",
     "name": "Demacia",
     "regionRuler": "The Crown of Demacia",
-    "regionEmblemUrl": "https://example.com/images/regions/demacia-emblem.jpg",
+    "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Demacia.png",
     "foundedYear": 552,
     "motto": "For Justice and Duty"
   },
@@ -11,7 +11,7 @@
     "id": "REG-002",
     "name": "Noxus",
     "regionRuler": "The Trifarix",
-    "regionEmblemUrl": "https://example.com/images/regions/noxus-emblem.jpg",
+    "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Noxus.png",
     "foundedYear": 213,
     "motto": "Strength Above All"
   },
@@ -19,7 +19,7 @@
     "id": "REG-003",
     "name": "Ionia",
     "regionRuler": "The First Lands (Council of Elders)",
-    "regionEmblemUrl": "https://example.com/images/regions/ionia-emblem.jpg",
+    "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Ionia.png",
     "foundedYear": 0,
     "motto": "Harmony Through Balance"
   },
@@ -27,7 +27,7 @@
     "id": "REG-004",
     "name": "Piltover",
     "regionRuler": "The Piltover Council",
-    "regionEmblemUrl": "https://example.com/images/regions/piltover-emblem.jpg",
+    "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Piltover.png",
     "foundedYear": 772,
     "motto": "Progress, Innovation, Prosperity"
   },
@@ -35,7 +35,7 @@
     "id": "REG-005",
     "name": "Zaun",
     "regionRuler": "Chem-Barons",
-    "regionEmblemUrl": "https://example.com/images/regions/zaun-emblem.jpg",
+    "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Zaun.png",
     "foundedYear": 772,
     "motto": "Survive. Adapt. Evolve."
   },
@@ -43,7 +43,7 @@
     "id": "REG-006",
     "name": "Freljord",
     "regionRuler": "Tribal Warchiefs",
-    "regionEmblemUrl": "https://example.com/images/regions/freljord-emblem.jpg",
+    "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Freljord.png",
     "foundedYear": 0,
     "motto": "Endure the Endless Winter"
   },
@@ -51,7 +51,7 @@
     "id": "REG-007",
     "name": "Bilgewater",
     "regionRuler": "The Sea’s Code",
-    "regionEmblemUrl": "https://example.com/images/regions/bilgewater-emblem.jpg",
+    "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Bilgewater.png",
     "foundedYear": 564,
     "motto": "Fortune Favors the Ruthless"
   },
@@ -59,7 +59,7 @@
     "id": "REG-008",
     "name": "Shadow Isles",
     "regionRuler": "The Black Mist",
-    "regionEmblemUrl": "https://example.com/images/regions/shadow-isles-emblem.jpg",
+    "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/ShadowIsles.png",
     "foundedYear": 0,
     "motto": "All Return to the Mist"
   },
@@ -67,7 +67,7 @@
     "id": "REG-009",
     "name": "Shurima",
     "regionRuler": "The Ascended Legacy",
-    "regionEmblemUrl": "https://example.com/images/regions/shurima-emblem.jpg",
+    "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Shurima.png",
     "foundedYear": -3000,
     "motto": "Rise with the Sun"
   },
@@ -75,7 +75,7 @@
     "id": "REG-010",
     "name": "Targon",
     "regionRuler": "The Aspects",
-    "regionEmblemUrl": "https://example.com/images/regions/targon-emblem.jpg",
+    "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Targon.png",
     "foundedYear": 0,
     "motto": "Climb, Transcend, Become"
   }
