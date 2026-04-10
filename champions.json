@@ -234,7 +234,7 @@
     "difficulty": 1,
     "isAvailable": true,
     "releaseDate": "2010-09-08",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/miss-fortune.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/missfortune.jpg",
     "role": "Marksman",
     "tags": ["aoe", "lane-bully", "teamfight"],
     "regionId": "REG-007",
