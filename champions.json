@@ -6,14 +6,14 @@
     "difficulty": 2,
     "isAvailable": true,
     "releaseDate": "2010-04-27",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/garen.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/garen.jpg",
     "role": "Fighter",
     "tags": ["tank", "frontline", "spin-to-win"],
     "regionId": "REG-001",
     "region": {
       "id": "REG-001",
       "name": "Demacia",
-      "regionEmblemUrl": "https://example.com/images/regions/demacia-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Demacia.png",
       "foundedYear": 552,
       "motto": "For Justice and Duty"
     }
@@ -25,14 +25,14 @@
     "difficulty": 3,
     "isAvailable": true,
     "releaseDate": "2010-10-19",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/lux.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/lux.jpg",
     "role": "Mage",
     "tags": ["burst", "poke", "shield"],
     "regionId": "REG-001",
     "region": {
       "id": "REG-001",
       "name": "Demacia",
-      "regionEmblemUrl": "https://example.com/images/regions/demacia-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Demacia.png",
       "foundedYear": 552,
       "motto": "For Justice and Duty"
     }
@@ -44,14 +44,14 @@
     "difficulty": 2,
     "isAvailable": true,
     "releaseDate": "2012-05-23",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/darius.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/darius.jpg",
     "role": "Fighter",
     "tags": ["juggernaut", "execute", "snowball"],
     "regionId": "REG-002",
     "region": {
       "id": "REG-002",
       "name": "Noxus",
-      "regionEmblemUrl": "https://example.com/images/regions/noxus-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Noxus.png",
       "foundedYear": 213,
       "motto": "Strength Above All"
     }
@@ -63,14 +63,14 @@
     "difficulty": 3,
     "isAvailable": true,
     "releaseDate": "2010-10-05",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/swain.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/swain.jpg",
     "role": "Mage",
     "tags": ["drain", "control", "frontline-mage"],
     "regionId": "REG-002",
     "region": {
       "id": "REG-002",
       "name": "Noxus",
-      "regionEmblemUrl": "https://example.com/images/regions/noxus-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Noxus.png",
       "foundedYear": 213,
       "motto": "Strength Above All"
     }
@@ -82,14 +82,14 @@
     "difficulty": 3,
     "isAvailable": true,
     "releaseDate": "2011-12-14",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/ahri.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/ahri.jpg",
     "role": "Mage",
     "tags": ["mobility", "pick", "charm"],
     "regionId": "REG-003",
     "region": {
       "id": "REG-003",
       "name": "Ionia",
-      "regionEmblemUrl": "https://example.com/images/regions/ionia-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Ionia.png",
       "foundedYear": 0,
       "motto": "Harmony Through Balance"
     }
@@ -101,14 +101,14 @@
     "difficulty": 4,
     "isAvailable": true,
     "releaseDate": "2013-12-13",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/yasuo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/yasuo.jpg",
     "role": "Assassin",
     "tags": ["dash", "crit", "outplay"],
     "regionId": "REG-003",
     "region": {
       "id": "REG-003",
       "name": "Ionia",
-      "regionEmblemUrl": "https://example.com/images/regions/ionia-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Ionia.png",
       "foundedYear": 0,
       "motto": "Harmony Through Balance"
     }
@@ -120,14 +120,14 @@
     "difficulty": 2,
     "isAvailable": true,
     "releaseDate": "2010-03-16",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/ezreal.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/ezreal.jpg",
     "role": "Marksman",
     "tags": ["poke", "skillshots", "mobility"],
     "regionId": "REG-004",
     "region": {
       "id": "REG-004",
       "name": "Piltover",
-      "regionEmblemUrl": "https://example.com/images/regions/piltover-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Piltover.png",
       "foundedYear": 772,
       "motto": "Progress, Innovation, Prosperity"
     }
@@ -139,14 +139,14 @@
     "difficulty": 2,
     "isAvailable": true,
     "releaseDate": "2011-01-04",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/caitlyn.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/caitlyn.jpg",
     "role": "Marksman",
     "tags": ["range", "siege", "traps"],
     "regionId": "REG-004",
     "region": {
       "id": "REG-004",
       "name": "Piltover",
-      "regionEmblemUrl": "https://example.com/images/regions/piltover-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Piltover.png",
       "foundedYear": 772,
       "motto": "Progress, Innovation, Prosperity"
     }
@@ -158,14 +158,14 @@
     "difficulty": 2,
     "isAvailable": true,
     "releaseDate": "2013-10-10",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/jinx.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/jinx.jpg",
     "role": "Marksman",
     "tags": ["hypercarry", "aoe", "reset"],
     "regionId": "REG-005",
     "region": {
       "id": "REG-005",
       "name": "Zaun",
-      "regionEmblemUrl": "https://example.com/images/regions/zaun-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Zaun.png",
       "foundedYear": 772,
       "motto": "Survive. Adapt. Evolve."
     }
@@ -177,14 +177,14 @@
     "difficulty": 4,
     "isAvailable": true,
     "releaseDate": "2015-05-29",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/ekko.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/ekko.jpg",
     "role": "Assassin",
     "tags": ["time", "dive", "burst"],
     "regionId": "REG-005",
     "region": {
       "id": "REG-005",
       "name": "Zaun",
-      "regionEmblemUrl": "https://example.com/images/regions/zaun-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Zaun.png",
       "foundedYear": 772,
       "motto": "Survive. Adapt. Evolve."
     }
@@ -196,14 +196,14 @@
     "difficulty": 2,
     "isAvailable": true,
     "releaseDate": "2009-02-21",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/ashe.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/ashe.jpg",
     "role": "Marksman",
     "tags": ["utility", "slow", "engage"],
     "regionId": "REG-006",
     "region": {
       "id": "REG-006",
       "name": "Freljord",
-      "regionEmblemUrl": "https://example.com/images/regions/freljord-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Freljord.png",
       "foundedYear": 0,
       "motto": "Endure the Endless Winter"
     }
@@ -215,14 +215,14 @@
     "difficulty": 2,
     "isAvailable": true,
     "releaseDate": "2014-05-12",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/braum.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/braum.jpg",
     "role": "Support",
     "tags": ["peel", "tank", "protect"],
     "regionId": "REG-006",
     "region": {
       "id": "REG-006",
       "name": "Freljord",
-      "regionEmblemUrl": "https://example.com/images/regions/freljord-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Freljord.png",
       "foundedYear": 0,
       "motto": "Endure the Endless Winter"
     }
@@ -234,14 +234,14 @@
     "difficulty": 1,
     "isAvailable": true,
     "releaseDate": "2010-09-08",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/missfortune.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/missfortune.jpg",
     "role": "Marksman",
     "tags": ["aoe", "lane-bully", "teamfight"],
     "regionId": "REG-007",
     "region": {
       "id": "REG-007",
       "name": "Bilgewater",
-      "regionEmblemUrl": "https://example.com/images/regions/bilgewater-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Bilgewater.png",
       "foundedYear": 564,
       "motto": "Fortune Favors the Ruthless"
     }
@@ -253,14 +253,14 @@
     "difficulty": 4,
     "isAvailable": true,
     "releaseDate": "2009-08-19",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/gangplank.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/gangplank.jpg",
     "role": "Fighter",
     "tags": ["barrels", "global-ult", "scaling"],
     "regionId": "REG-007",
     "region": {
       "id": "REG-007",
       "name": "Bilgewater",
-      "regionEmblemUrl": "https://example.com/images/regions/bilgewater-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Bilgewater.png",
       "foundedYear": 564,
       "motto": "Fortune Favors the Ruthless"
     }
@@ -272,14 +272,14 @@
     "difficulty": 4,
     "isAvailable": true,
     "releaseDate": "2013-01-23",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/thresh.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/thresh.jpg",
     "role": "Support",
     "tags": ["hook", "engage", "peel"],
     "regionId": "REG-008",
     "region": {
       "id": "REG-008",
       "name": "Shadow Isles",
-      "regionEmblemUrl": "https://example.com/images/regions/shadow-isles-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/ShadowIsles.png",
       "foundedYear": 0,
       "motto": "All Return to the Mist"
     }
@@ -291,14 +291,14 @@
     "difficulty": 3,
     "isAvailable": true,
     "releaseDate": "2012-04-18",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/hecarim.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/hecarim.jpg",
     "role": "Fighter",
     "tags": ["speed", "dive", "teamfight"],
     "regionId": "REG-008",
     "region": {
       "id": "REG-008",
       "name": "Shadow Isles",
-      "regionEmblemUrl": "https://example.com/images/regions/shadow-isles-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/ShadowIsles.png",
       "foundedYear": 0,
       "motto": "All Return to the Mist"
     }
@@ -310,14 +310,14 @@
     "difficulty": 5,
     "isAvailable": true,
     "releaseDate": "2014-09-16",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/azir.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/azir.jpg",
     "role": "Mage",
     "tags": ["control", "dps-mage", "shuffle"],
     "regionId": "REG-009",
     "region": {
       "id": "REG-009",
       "name": "Shurima",
-      "regionEmblemUrl": "https://example.com/images/regions/shurima-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Shurima.png",
       "foundedYear": -3000,
       "motto": "Rise with the Sun"
     }
@@ -329,14 +329,14 @@
     "difficulty": 2,
     "isAvailable": true,
     "releaseDate": "2009-10-01",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/nasus.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/nasus.jpg",
     "role": "Fighter",
     "tags": ["scaling", "splitpush", "tankiness"],
     "regionId": "REG-009",
     "region": {
       "id": "REG-009",
       "name": "Shurima",
-      "regionEmblemUrl": "https://example.com/images/regions/shurima-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Shurima.png",
       "foundedYear": -3000,
       "motto": "Rise with the Sun"
     }
@@ -348,14 +348,14 @@
     "difficulty": 2,
     "isAvailable": true,
     "releaseDate": "2011-07-13",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/leona.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/leona.jpg",
     "role": "Tank",
     "tags": ["engage", "cc-chain", "frontline"],
     "regionId": "REG-010",
     "region": {
       "id": "REG-010",
       "name": "Targon",
-      "regionEmblemUrl": "https://example.com/images/regions/targon-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Targon.png",
       "foundedYear": 0,
       "motto": "Climb, Transcend, Become"
     }
@@ -367,14 +367,14 @@
     "difficulty": 3,
     "isAvailable": true,
     "releaseDate": "2012-08-07",
-    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/diana.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/champions/diana.jpg",
     "role": "Assassin",
     "tags": ["dive", "aoe", "burst"],
     "regionId": "REG-010",
     "region": {
       "id": "REG-010",
       "name": "Targon",
-      "regionEmblemUrl": "https://example.com/images/regions/targon-emblem.jpg",
+      "regionEmblemUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/guilds/Targon.png",
       "foundedYear": 0,
       "motto": "Climb, Transcend, Become"
     }
