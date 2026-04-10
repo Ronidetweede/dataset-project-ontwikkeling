@@ -63,7 +63,7 @@
     "difficulty": 3,
     "isAvailable": true,
     "releaseDate": "2010-10-05",
-    "imageUrl": "hhttps://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/swain.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Ronidetweede/dataset-project-ontwikkeling/refs/heads/main/images/swain.jpg",
     "role": "Mage",
     "tags": ["drain", "control", "frontline-mage"],
     "regionId": "REG-002",
